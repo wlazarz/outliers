@@ -4,6 +4,7 @@ The repository contains the implementation of three algorithms clustering data t
 - The K-modes algorithm described by Z. Huang in 1997 in "A Fast Clustering Algorithm to Cluster Very Large Categorical Data Sets in Data Mining", published in Proceedings of Data Mining and Knowledge Discovery,
 - STIRR (Sieving Through Iterated Relational Reinforcement), dynamic system described by D. Gibson in „Clustering Categorical Data: An Approach Based on Dynamical Systems”, published in Proceedings of the 24th International Conference on Very Large Data Bases in 2000,
 - ROCK (Robust Clustering Algorithm for Categorical Attributes) published by S. Guha et al. in 2000 in „ROCK: A Robust Clustering Algorithm for Categorical Attributes”.
+
 Algorithms were used to detect outliers from qualitative data sets and to compare how the above algorithms deal with this problem.
 
 The project was implemented in the JupyterHub environment in Python.
