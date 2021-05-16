@@ -1,4 +1,4 @@
-# outliers
+# Detection of outliers in qualitative data sets using clustering algorithms
 
 The repository contains the implementation of three algorithms clustering data that has only quality domains:
 - The K-modes algorithm described by Z. Huang in 1997 in "A Fast Clustering Algorithm to Cluster Very Large Categorical Data Sets in Data Mining", published in Proceedings of Data Mining and Knowledge Discovery,
